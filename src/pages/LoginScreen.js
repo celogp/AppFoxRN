@@ -6,7 +6,7 @@ const srcLogo = require('../../assets/images/SnkLogo.png');
 export default class LoginScreen extends Component {
 
   _onPressButton() {
-    Alert.alert('You long-pressed the button!');
+    Alert.alert('você fez login!');
   }
 
   render() {
